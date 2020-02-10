@@ -1,4 +1,6 @@
-- Personal
+  - [Home](README.md)
+  
+- PPA Help
 
-  - [Personal Docs](README.md)
-  - [PC Benchmark](COMPUTER.md)
+  - [JavaScript](js.md)
+
