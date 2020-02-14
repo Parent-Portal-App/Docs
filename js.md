@@ -1,0 +1,5 @@
+# JavaScript
+
+## Syntax
+
+## Other Info
